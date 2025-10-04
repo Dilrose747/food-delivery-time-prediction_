@@ -118,5 +118,5 @@ This project successfully developed a highly accurate predictive model to estima
 
 ## 📌 **Author**
 
-Developed by [Mohamed Sahad M]  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-sahad-m-96b038200/)  
+Developed by [Mohamed Dilrose P M]  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-dilrose-365554230/)  
